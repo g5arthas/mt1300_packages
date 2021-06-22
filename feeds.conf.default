@@ -12,5 +12,6 @@ src-git helloworld https://github.com/fw876/helloworld
 #src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git openclash https://github.com/vernesong/OpenClash
 src-git OpenAppFilter https://github.com/Lienol/openwrt-OpenAppFilter
-
+src-git openwrt-packages https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
 

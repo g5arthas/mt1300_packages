@@ -38,9 +38,7 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns package/luci-app-s
 git clone https://github.com/esirplayground/luci-app-poweroff package/luci-app-poweroff
 #自动关机插件
 git clone https://github.com/sirpdboy/luci-app-autopoweroff package/luci-app-autopoweroff
-#第三方插件
-git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
-git clone https://github.com/kenzok8/small.git package/openwrt-packages
+
 # argon主题
 pushd package/lean
 rm -rf luci-theme-argon
